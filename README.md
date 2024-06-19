@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">##Hi!!👋<br>I'm a software engineering student and I'm enthusiastic about learning and exploring new technologies.<br><br>Feel free to explore my repositories and connect with me on LinkedIn !</p>
+<p align="left">Hi!!👋<br>I'm a software engineering student and I'm enthusiastic about learning and exploring new technologies.<br><br>Feel free to explore my repositories and connect with me on LinkedIn !</p>
 
 ###
 
